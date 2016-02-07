@@ -23,9 +23,12 @@ Glados is available natively on osx, windows, android, ios and utilizes each dev
 * Choose which features you want and deploy. Only keep those in the graph
 
 # Planned activities
+* Todo list, what's my agenda for today
+* Which are the blocking tasks
 * Order food online, book tickets, download products.
 * Suggest me what to watch, suggest me what to read, news summary
 * Buy items
 * Play some songs for me
 * Manage projects, which tasks are highest priroity 
 * Common task automation
+* Download ebook automatically
